@@ -3,7 +3,7 @@
 
 <p>- Computer technician by IFPR. </br>
 - Studying software engineering at Unisenai.</br>
-- Working at <a href="https://www.zrp.com.br" target="__blank">@ZRP</a>
+- Working at <a href="https://www.zrp.com.br" target="_blank">@ZRP</a>
 </p>
 
 <div align="left">
@@ -37,13 +37,13 @@
 <br/>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-odelon-wagner/" target="__blank" >
+  <a href="https://www.linkedin.com/in/eduardo-odelon-wagner/" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0B66C3&logoColor=white&labelColor=&style=for-the-badge" height="30"  alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/users/365493360539992074" target="__blank">
+  <a href="https://discord.com/users/365493360539992074" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30"        alt="discord logo"  />
   </a>
-  <a href="mailto:eduardoodelonw@gmail.com" target="__blank">
+  <a href="mailto:eduardoodelonw@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
